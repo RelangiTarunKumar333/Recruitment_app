@@ -1,0 +1,6 @@
+# Core Python libraries (no installation needed for these)
+tkinter==3.6.15  # GUI library; usually bundled with Python installations
+sqlite3==3.36.0  # SQLite for database management; comes with Python
+
+# External libraries required for the project
+PyPDF2==3.0.1  # PDF parsing library for extracting text from resumes
