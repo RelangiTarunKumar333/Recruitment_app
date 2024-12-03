@@ -1,0 +1,44 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyc
+
+# Virtual environment
+venv/
+ENV/
+*.env
+
+# IDE/editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Python distributions
+dist/
+build/
+*.egg-info/
+
+# Database files
+*.db
+
+# Log files
+*.log
+
+# Temporary files
+*.swp
+*.bak
+*.tmp
+
+# PDF resumes (optional, if you want to keep them out of version control)
+*.pdf
+
+# Other files to exclude (e.g., secrets, credentials)
+*.env
+config.json
